@@ -1,3 +1,5 @@
+![Portada](https://github.com/Cchiponga/Cchiponga/blob/main/Github_portada.png?raw=true)
+
 # 💫 About Me:
 Hi there! 👋<br>I'm a Higher Technician in Systems Analysis with a strong passion for problem-solving, software development, and continuous learning. My background in customer service and the gastronomy industry has helped me develop strong communication, teamwork, and adaptability skills, which I now apply in the tech world.<br><br>💻 What I do:<br><br>Develop efficient and scalable solutions<br><br>Work with different technologies and programming languages<br><br>Collaborate in dynamic teams to build innovative projects<br><br>🚀 What drives me:<br><br>Learning new technologies and best practices<br><br>Writing clean and maintainable code<br><br>Enhancing team collaboration and project efficiency<br><br>📫 Let's connect! If you're interested in collaborating or just want to chat about tech, feel free to reach out.
 
